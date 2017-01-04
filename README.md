@@ -1,2 +1,4 @@
 # successresource
-wordpress theme build on custom design PSD 
+wordpress theme development 
+Design  
+http://srglobal.com/
