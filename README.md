@@ -1,2 +1,2 @@
 # successresource
-countryslider
+wordpress theme build on custom design PSD 
